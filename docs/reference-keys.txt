@@ -2,3 +2,6 @@ down-the-rabbit-hole
 the-pool-of-tears
 a-caucus-race-and-a-long-tale
 sobre-la-autora
+fig:nice-fig
+tab:nice-tab
+intro
