@@ -1,9 +1,0 @@
-# Introducción
-
-## ¿Por qué Jamovi para el sector público?
-
-
-Jamovi es un programa gratuito para realizar cálculos estadísticos, esto facilita el proceso de adquisión de licencias de otros softwares estadísticos de paga.
-
-Es un software de fácil uso, debido a que desde su creación se consideró la versatilidad del SPSS, uno de los softwares de pago más empleados. Sin embargo, Jamovi es una interfaz gráfica de R, un software muy pontente basado en el lenguaje de objetos.
-
