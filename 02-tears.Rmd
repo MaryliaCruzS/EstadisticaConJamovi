@@ -7,3 +7,12 @@ Jamovi es un programa gratuito para realizar cálculos estadísticos, esto facil
 
 Es un software de fácil uso, debido a que desde su creación se consideró la versatilidad del SPSS, uno de los softwares de pago más empleados. Sin embargo, Jamovi es una interfaz gráfica de R, un software muy pontente basado en el lenguaje de objetos.
 
+Jamovi también nos permitirá realizar un reporte en pdf y guardar nuestro nuevos avances como un proyecto de Jamovi.
+
+## ¿Cómo instalar JAMOVI?
+
+Enel siguiente link https://www.jamovi.org/download.html puede encontrar el instalador para Windons y Mac. Se recomienda instalar la versión SOLID, la más recomendada para la mayoría de usuarios.
+
+## Reconocimiendo JAMOVI
+
+
