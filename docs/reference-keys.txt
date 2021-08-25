@@ -6,3 +6,9 @@ fig:nice-fig
 tab:nice-tab
 intro
 introducción
+por-qué-jamovi-para-el-sector-público
+introducción-1
+por-qué-jamovi-para-el-sector-público-1
+cómo-instalar-jamovi
+reconocimiendo-jamovi
+estadística-descriptiva
