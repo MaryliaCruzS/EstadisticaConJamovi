@@ -2,9 +2,7 @@
 title: "Estadística para el Sector Público con Jamovi"
 author: "Marylía Cruz Sarmiento"
 date: '2021'
-output:
-  html_document:
-    df_print: paged
+output: html_document
 site: bookdown::bookdown_site
 documentclass: book
 ---
