@@ -24,3 +24,9 @@ prueba-t
 anova
 análisis-entre-dos-variables-numéricas
 correlación
+tipos-de-variables
+medidas-de-centralidad
+medidas-de-dispersión
+regresión-lineal
+regresión-lineal-simple
+regresión-lineal-múltiple
