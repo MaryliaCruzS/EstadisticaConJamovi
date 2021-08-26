@@ -1,2 +1,11 @@
-# Estadística descriptiva
+
+
+## Estadística  univariada
+
+
+markdown">[![Alt text for your video](http://img.youtube.com/vi/CCO5rLpTz_U/0.jpg)](https://www.youtube.com/watch?v=CCO5rLpTz_U)
+
+### Intervalo de confianza
+
+
 

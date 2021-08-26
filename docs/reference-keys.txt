@@ -12,3 +12,15 @@ por-qué-jamovi-para-el-sector-público-1
 cómo-instalar-jamovi
 reconocimiendo-jamovi
 estadística-descriptiva
+primeros-pasos-en-jamovi
+introducción-a-jamovi
+estadística-univariada
+intervalo-de-confianza
+estadística-bivariada
+análisis-entre-dos-variables-categóricas
+análisis-entre-una-variable-categórica-y-una-numérica
+intervalo-de-confianza-de-dos-medias
+prueba-t
+anova
+análisis-entre-dos-variables-numéricas
+correlación

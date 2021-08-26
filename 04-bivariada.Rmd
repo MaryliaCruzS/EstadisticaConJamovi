@@ -1,0 +1,16 @@
+# Estadística bivariada
+
+### Análisis entre dos variables categóricas
+
+
+### Análisis entre una variable categórica y una numérica
+
+#### Intervalo de confianza de dos medias
+
+#### Prueba T
+
+#### Anova
+
+### Análisis entre dos variables numéricas
+
+#### Correlación

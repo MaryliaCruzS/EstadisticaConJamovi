@@ -14,7 +14,7 @@ documentclass: book
 <div class="col-sm-6">
 
 
-![](Jamovi_caratula.png)
+![](Portada.png)
 
 
 Este _libro_ es una guía práctica que  tiene como objetivo principal ser una herramienta para el aprendizaje de estadística para el sector público utilizando el software libre **JAMOVI**, y está especialmente dirigido a estudiantes de la Maestría de Gobierno y Políticas Públicas de la Escuela de Gobierno y Políticas Públicas - Pontificia Universidad Católica del Perú (PUCP).
